@@ -12,4 +12,4 @@ Predict the sales of stores from structural data containing sale information fea
 - In final submission, I have found that Item_Weight and Outlet_Size has NaN values. For this I have filled them 0 for earlier and "Missing" for the Outlet_Size NaN values.
 - In final submission, I have used Ordinal Encoder to encode the non-numerical columns.
 
-Achieved a ranking of #3234 among 52515 participants as of 23rd March with a public score of 1169.5250917601
+Achieved a ranking of #3235 among 52515 participants as of 23rd March with a public score of 1169.5250917601
