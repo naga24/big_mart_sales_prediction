@@ -1,5 +1,5 @@
 # big_mart_sales_prediction
-Predict the sales of stores from structural data containing sale information features (Part of Analytics Vidhya Hackathon.)
+Predict the sales of stores from structural data containing sale information features (Part of Analytics Vidhya Hackathon.) https://www.analyticsvidhya.com/datahack/leaderboard/practice-problem-big-mart-sales-iii/
 
 ## Pre-requisites
 - I use the Python 3.12.3 version.
