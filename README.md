@@ -13,3 +13,6 @@ Predict the sales of stores from structural data containing sale information fea
 - In final submission, I have used Ordinal Encoder to encode the non-numerical columns.
 
 Achieved a ranking of #3235 among 52515 participants as of 23rd March with a public score of 1169.5250917601
+
+## Contact
+```nagarjun.gururaj@gmail.com```
